@@ -1,0 +1,44 @@
+body{
+   
+    background-color: black;
+    
+}
+#insta{
+    list-style-image: url(../imagens/Insta.png);
+    list-style-position: inside;
+    list-style:;
+    padding-bottom: 20px;
+    
+}
+#twitter{
+    list-style-image: url(../imagens/Twitter.png);
+    list-style-position: inside;
+    padding-bottom: 20px;
+}
+#youtube{
+    list-style-image: url(../imagens/Youtube.png);
+    list-style-position: inside;
+}
+p{
+    font-size: 35px;
+    padding-left: 25px;
+}
+ul{
+    font-size: 25px;
+}
+
+.links{
+    text-decoration: none;
+    color: black;
+}
+
+#container{
+
+    background-image: url(../imagens/background.png);
+    background-repeat: no-repeat;
+    margin-left: 40px;
+    margin-top: 13px;
+    width: 800px;
+    height: 400px;
+
+}
